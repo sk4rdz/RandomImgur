@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ランダム画像</string>
+    <string name="button_text">load</string>
+    <string name="display_text">
+        ※エロ・グロ画像等が表示されることがありますのでご注意下さい。\n
+        ※当アプリを利用する事によって生じたあらゆる損害等に対して、\n開発者は一切の責任を負いかねます。
+    </string>
+    <string name="extra_subject">ランダム画像ジェネレーター</string>
+    <string name="Chooser_text">アプリを選択</string>
+    <string name="url">http://i.imgur.com/</string>
+</resources>
